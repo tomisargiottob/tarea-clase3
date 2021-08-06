@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Mona Lisa",
+    "price": 200,
+    "image": "./img/foto1",
+    "id": 1
+  },
+  {
+    "title": "Guernica",
+    "price": 100,
+    "image": "./img/foto2",
+    "id": 2
+  },
+  {
+    "title": "Mona Lisa",
+    "price": 200,
+    "image": "./img/foto1",
+    "id": 3
+  },
+  {
+    "title": "Guernica",
+    "price": 100,
+    "image": "./img/foto2",
+    "id": 4
+  },
+  {
+    "title": "El grito",
+    "price": 100,
+    "image": "./img/foto2",
+    "id": 5
+  },
+  {
+    "title": "La noche estrellada",
+    "price": 100,
+    "image": "./img/foto2",
+    "id": 6
+  }
+]
